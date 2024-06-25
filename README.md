@@ -1,3 +1,5 @@
+#仿小米商城-vue2
+
 # project
 
 ## Project setup
